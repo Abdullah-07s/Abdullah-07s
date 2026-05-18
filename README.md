@@ -6,7 +6,7 @@
 Building things across AI/ML · Big Data · Blockchain · Systems · Game Dev
 
 [![Email](https://img.shields.io/badge/Email-abdullah.mallickk%40gmail.com-27AE60?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.mallickk@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-07s&color=27AE60&style=flat-square&label=Profile+Views)](https://github.com/Abdullah-07s)
 
 </div>
