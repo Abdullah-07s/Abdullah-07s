@@ -73,7 +73,7 @@ Building things across AI/ML · Big Data · Blockchain · Systems · Game Dev
 | 🏎️ [TORCS Racing AI](https://github.com/Abdullah-07s/torcs-racing-ai) | Neural network agent that learns to drive autonomously in a racing simulator | Python · scikit-learn · Pandas |
 | 🔤 [Custom Language Compiler](#) | Lexer → LL(1)/LR(1) parsers → AST → JSON-to-XML translator | Java · Flex · Yacc/Bison |
 | 📚 [Library Management System](#) | Full Agile-built desktop app with role-based auth and SQL Server backend | Java · Swing · JDBC · SQL Server |
-| 🎮 [Zuma (Assembly)](#) | Classic arcade game rebuilt entirely in x86 Assembly with Irvine32 graphics | x86 Assembly · Irvine32 |
+| 🎮 [Zuma (Assembly)](https://github.com/Abdullah-07s/Zuma-Game) | Classic arcade game rebuilt entirely in x86 Assembly with Irvine32 graphics | x86 Assembly · Irvine32 |
 
 > 🚧 Repos are being cleaned up and uploaded — check back soon!
 
