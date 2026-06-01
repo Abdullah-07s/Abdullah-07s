@@ -71,7 +71,7 @@ Building things across AI/ML · Big Data · Blockchain · Systems · Game Dev
 | 🔐 [Sentinel Z](#) | ZK-Proof gated smart wallet on Ethereum — tiered auth with Circom + Groth16 | Solidity · Circom · React · Hardhat |
 | 📊 [Crime Analytics System](https://github.com/Abdullah-07s/Crime-Analytics) | Lambda Architecture on 7M+ records — real-time Kafka/Storm alerts + PySpark batch | PySpark · Kafka · Storm · Docker |
 | 🏎️ [TORCS Racing AI](https://github.com/Abdullah-07s/torcs-racing-ai) | Neural network agent that learns to drive autonomously in a racing simulator | Python · scikit-learn · Pandas |
-| 🔤 [Custom Language Compiler](#) | Lexer → LL(1)/LR(1) parsers → AST → JSON-to-XML translator | Java · Flex · Yacc/Bison |
+| 🔤 [Custom Language Compiler](https://github.com/Abdullah-07s/compiler-construction) | Lexer → LL(1)/LR(1) parsers → AST → JSON-to-XML translator | Java · Flex · Yacc/Bison |
 | 📚 [Library Management System](#) | Full Agile-built desktop app with role-based auth and SQL Server backend | Java · Swing · JDBC · SQL Server |
 | 🎮 [Zuma (Assembly)](https://github.com/Abdullah-07s/Zuma-Game) | Classic arcade game rebuilt entirely in x86 Assembly with Irvine32 graphics | x86 Assembly · Irvine32 |
 
