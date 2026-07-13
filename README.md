@@ -93,7 +93,13 @@ Building things across AI/ML · Big Data · Blockchain · Backend · Systems
 
 ## 📈 GitHub Stats
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-07s&theme=tokyonight&hide_border=true)](https://github.com/Abdullah-07s)
+<div align="center">
+
+[![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-07s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Abdullah-07s)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-07s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Abdullah-07s)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-07s&theme=tokyonight&hide_border=true)](https://github.com/Abdullah-07s)
 
 </div>
 
