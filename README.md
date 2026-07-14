@@ -12,27 +12,23 @@ Building reliable backend systems, distributed applications, and intelligent sof
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
 [![Email](https://img.shields.io/badge/Email-C8A03D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abdullah.mallickk@gmail.com)
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&pause=3000&color=C8A03D&center=true&vCenter=true&width=700&lines=Backend+Engineering;Distributed+Systems;Artificial+Intelligence;Blockchain;Always+Learning." />
-
 </div>
 
 ---
 
 ## About
 
-I'm a final-year Computer Science student at **FAST NUCES Islamabad** passionate about building software that is scalable, maintainable, and engineered for real-world use.
+Final-year Computer Science student at **FAST NUCES Islamabad** passionate about building scalable backend systems and solving complex engineering problems.
 
-My interests span backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy understanding how systems work—from low-level programming and compilers to modern cloud-ready backend applications.
+My interests include backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy designing software that is clean, maintainable, and built for real-world use.
 
 ---
 
 # Featured Projects
 
-## 🔐 Sentinel Z *(Final Year Project — Private)*
+## 🔐 Sentinel Z *(Final Year Project • Private)*
 
-A privacy-focused Ethereum smart wallet using **Zero-Knowledge Proofs** for authentication without revealing user identity.
+Zero-Knowledge Proof gated Ethereum smart wallet implementing privacy-preserving authentication.
 
 **Stack**
 
@@ -40,63 +36,56 @@ A privacy-focused Ethereum smart wallet using **Zero-Knowledge Proofs** for auth
 
 ---
 
-## 🏗 Backend Engineering
+## 📚 Library Management System
 
-### 📚 Library Management System
+Production-grade backend featuring JWT authentication, refresh tokens, WebSocket notifications, Docker, Swagger, ACID transactions, and modern software design patterns.
 
-Production-style backend featuring JWT authentication, refresh tokens, WebSocket notifications, Docker, Swagger, ACID transactions, and design patterns.
+**Tech**
 
-**Java • Spring Boot • Spring Security • MySQL • Docker**
+`Java` • `Spring Boot` • `Spring Security` • `MySQL` • `Docker`
 
-➡️ Repository: **github.com/Abdullah-07s/LMS**
+➡️ **Repository**
 
----
-
-### 🛒 E-Commerce Design Patterns
-
-Implementation of the complete **Gang of Four Design Patterns** and **SOLID Principles** inside a Spring Boot application.
-
-**Java • Spring Boot • MySQL**
+https://github.com/Abdullah-07s/LMS
 
 ---
 
-### 🎓 Student REST API
-
-RESTful CRUD API demonstrating JPA relationships, layered architecture, and clean backend practices.
-
----
-
-# 🤖 Artificial Intelligence
-
-### 🏎 TORCS Racing AI
-
-Neural network trained to autonomously drive inside the TORCS racing simulator.
-
-### 🚢 Titanic Survival Prediction
-
-End-to-end machine learning pipeline including data preprocessing, feature engineering, model training, and evaluation.
-
----
-
-# 📊 Big Data & Distributed Systems
-
-### Crime Analytics Platform
+## 📊 Crime Analytics Platform
 
 Real-time analytics platform processing over **7 million records** using Lambda Architecture.
 
-**Apache Spark • Kafka • Storm**
+**Tech**
+
+`Apache Spark` • `Kafka` • `Storm`
+
+➡️ **Repository**
+
+https://github.com/Abdullah-07s/Crime-Analytics
 
 ---
 
-# ⚙️ Systems Programming
+## 🏎 TORCS Racing AI
 
-### Compiler Construction
+Neural network trained to autonomously drive inside the TORCS racing simulator.
 
-Compiler implementation featuring lexical analysis, LL(1), LR(1), abstract syntax tree generation, and translation.
+**Tech**
 
-### 🎮 Zuma (x86 Assembly)
+`Python` • `NumPy` • `Pandas` • `Scikit-Learn`
 
-Classic Zuma arcade game recreated entirely in x86 Assembly.
+➡️ **Repository**
+
+https://github.com/Abdullah-07s/torcs-racing-ai
+
+---
+
+## Other Projects
+
+- 🛒 **E-Commerce Design Patterns** — Complete implementation of all **23 GoF Design Patterns** and **SOLID Principles**
+- 🔤 **Compiler Construction** — Lexer, LL(1), LR(1), AST generation, and translation
+- 🎓 **Student REST API** — Spring Boot CRUD API with JPA
+- 🚢 **Titanic Survival Prediction** — End-to-end machine learning pipeline
+- 🎮 **Zuma (x86 Assembly)** — Classic arcade game recreated entirely in Assembly
+- 📚 **Desktop Library Management System** — Java Swing application with SQLite and SQL Server
 
 ---
 
@@ -105,24 +94,32 @@ Classic Zuma arcade game recreated entirely in x86 Assembly.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Data & AI
+### Data Engineering
 
-Apache Spark • Apache Kafka • Hadoop • Pandas • NumPy • Scikit-Learn
+Apache Spark • Apache Kafka • Apache Storm • Hadoop
+
+### Machine Learning
+
+NumPy • Pandas • Scikit-Learn • PyMC
+
+### Blockchain
+
+Ethereum • Hardhat • Circom • Groth16
 
 ---
 
@@ -130,28 +127,21 @@ Apache Spark • Apache Kafka • Hadoop • Pandas • NumPy • Scikit-Learn
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullah-07s&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-07s&layout=compact&theme=transparent&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Abdullah-07s&theme=transparent&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-07s&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# Certifications
-
-- AWS Cloud Practitioner Essentials
-- TryHackMe – Pre Security
-- C++ Programming
-- Coursera – Build Your Portfolio Website
-
----
-
 <div align="center">
+
+### Let's Connect
+
+[Portfolio](https://abdullah-07s.github.io) •
+[LinkedIn](https://www.linkedin.com/in/abdullah-mallick-14322b371/) •
+[Email](mailto:abdullah.mallickk@gmail.com)
+
+<br>
 
 *"Great software isn't built by accident. It's engineered."*
 
