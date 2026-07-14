@@ -2,9 +2,15 @@
 
 # Abdullah Mallick
 
-### Backend Engineer • AI Engineer • Software Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=C8A03D&center=true&vCenter=true&width=700&lines=Designing+Reliable+Systems;Building+Scalable+Applications;Engineering+Intelligent+Solutions;Creating+Production-Ready+Software"/>
 
-Building scalable systems, intelligent applications, and software that lasts.
+<!--QUOTE_START-->
+
+> 💭 **Today's Repository Thought**
+>
+> *Loading today's thought...*
+
+<!--QUOTE_END-->
 
 <br>
 
