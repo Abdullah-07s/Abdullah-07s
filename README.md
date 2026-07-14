@@ -4,15 +4,13 @@
 
 ### Software Engineer
 
-Building scalable backend systems, distributed applications, and AI-powered software.
-
-[Portfolio](https://abdullah-07s.github.io) •
-[LinkedIn](https://www.linkedin.com/in/abdullah-mallick-14322b371/) •
-[Email](mailto:abdullah.mallickk@gmail.com)
+Building scalable backend systems, intelligent applications, and distributed software.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2500&color=C8A03D&center=true&vCenter=true&width=650&lines=Backend+Engineering;Artificial+Intelligence;Distributed+Systems;Blockchain;Always+building+something+new." />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=github&logoColor=white)](https://abdullah-07s.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Mallick-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
+[![Email](https://img.shields.io/badge/Email-Contact-C8A03D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abdullah.mallickk@gmail.com)
 
 </div>
 
@@ -20,99 +18,160 @@ Building scalable backend systems, distributed applications, and AI-powered soft
 
 ## About
 
-I'm a final-year Computer Science student at **FAST NUCES Islamabad** with an interest in building software that is scalable, maintainable, and designed for real-world use.
+I'm a final-year Computer Science student at **FAST NUCES Islamabad** with a passion for building software that is reliable, scalable, and designed for real-world use.
 
-My work spans backend engineering, distributed systems, machine learning, and blockchain, with a focus on understanding the underlying architecture rather than simply using frameworks.
-
-**Current interests**
-
-- Backend Engineering
-- Distributed Systems
-- Artificial Intelligence
-- Zero-Knowledge Proofs
-- Software Architecture
+My interests include backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy taking projects from concept to production while focusing on clean code, thoughtful design, and maintainable systems.
 
 ---
 
 # Featured Projects
 
-### Sentinel Z *(Final Year Project)*
+## 🔐 Sentinel Z *(Final Year Project • Private)*
 
-A Zero-Knowledge Proof gated Ethereum smart wallet implementing privacy-preserving authentication using Circom and Groth16.
+**Zero-Knowledge Proof Ethereum Smart Wallet**
 
-**Tech**
+Privacy-preserving wallet authentication using modern cryptographic protocols.
+
+**Stack**
 
 `Solidity` `Circom` `Groth16` `React` `Hardhat`
 
 ---
 
+## 🏗 Backend Engineering
+
 ### 📚 Library Management System
 
-Production-style backend inspired by enterprise applications.
+Enterprise-inspired backend featuring authentication, WebSockets, design patterns, Docker, Swagger, and automated testing.
 
-**Highlights**
+**Tech**
 
-- JWT Authentication
-- Refresh Tokens
-- WebSocket Notifications
-- Docker
-- Swagger
-- Strategy Pattern
-- Observer Pattern
-- Factory Pattern
-- 22 Automated Tests
+`Java` `Spring Boot` `Spring Security` `MySQL` `Docker`
 
-**Repository**
-
-> https://github.com/Abdullah-07s/LMS
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/LMS
 
 ---
+
+### 🛒 E-Commerce Design Patterns
+
+Implementation of all **23 GoF Design Patterns** and **SOLID Principles** inside a Spring Boot application.
+
+**Tech**
+
+`Java` `Spring Boot` `MySQL`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/ecommerce-patterns
+
+---
+
+### 🎓 Student REST API
+
+RESTful CRUD application demonstrating JPA relationships and REST API best practices.
+
+**Tech**
+
+`Java` `Spring Boot`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/student-api
+
+---
+
+# 🤖 Artificial Intelligence
+
+### 🏎 TORCS Racing AI
+
+Neural network trained to drive autonomously inside the TORCS racing simulator.
+
+**Tech**
+
+`Python` `Scikit-Learn` `NumPy`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/torcs-racing-ai
+
+---
+
+### 🚢 Titanic Survival Prediction
+
+Complete machine learning workflow including EDA, feature engineering, model training, and evaluation.
+
+**Tech**
+
+`Python` `Pandas` `Scikit-Learn`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/titanic-survival
+
+---
+
+# 📊 Big Data & Distributed Systems
 
 ### Crime Analytics Platform
 
-Real-time crime analytics platform processing over **7 million records** using Lambda Architecture.
+Real-time analytics platform built using Lambda Architecture to process over **7 million crime records**.
 
 **Pipeline**
 
-Spark • Kafka • Storm
+Kafka → Storm → Spark
+
+**Tech**
+
+`PySpark` `Kafka` `Storm`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/Crime-Analytics
 
 ---
 
-### TORCS Racing AI
+# ⚙️ Systems Programming
 
-Neural Network agent capable of autonomously driving inside the TORCS racing simulator.
+### Compiler Construction
 
----
+A compiler implementation featuring lexical analysis, LL(1), LR(1) parsing, AST generation, and JSON-to-XML translation.
 
-### Other Projects
+**Tech**
 
-- Compiler Construction
-- E-Commerce Design Patterns
-- Student REST API
-- Titanic Survival Prediction
-- Zuma (x86 Assembly)
-- Desktop Library Management System
+`Java` `Flex` `Bison`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/compiler-construction
 
 ---
 
-# Tech Stack
+### Zuma (x86 Assembly)
+
+Classic Zuma arcade game recreated entirely in x86 Assembly.
+
+**Tech**
+
+`Assembly`
+
+➡️ **Repository:**  
+https://github.com/Abdullah-07s/zuma-assembly
+
+---
+
+# Technology Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### Data Engineering
@@ -125,7 +184,7 @@ NumPy • Pandas • Scikit-Learn • PyMC
 
 ---
 
-# GitHub
+# GitHub Analytics
 
 <div align="center">
 
@@ -146,12 +205,12 @@ NumPy • Pandas • Scikit-Learn • PyMC
 - AWS Cloud Practitioner Essentials
 - TryHackMe — Pre Security
 - C++ Programming
-- Coursera — Build Your Portfolio Website
+- Build Your Portfolio Website (Coursera)
 
 ---
 
 <div align="center">
 
-*"Great software is built through thoughtful engineering, not complexity."*
+> **"Great software isn't built by accident. It's engineered."**
 
 </div>
