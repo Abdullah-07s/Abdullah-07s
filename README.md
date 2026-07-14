@@ -4,13 +4,17 @@
 
 ### Software Engineer
 
-Building scalable backend systems, intelligent applications, and distributed software.
+Building reliable backend systems, distributed applications, and intelligent software.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=github&logoColor=white)](https://abdullah-07s.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Mallick-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
-[![Email](https://img.shields.io/badge/Email-Contact-C8A03D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abdullah.mallickk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://abdullah-07s.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
+[![Email](https://img.shields.io/badge/Email-C8A03D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abdullah.mallickk@gmail.com)
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&pause=3000&color=C8A03D&center=true&vCenter=true&width=700&lines=Backend+Engineering;Distributed+Systems;Artificial+Intelligence;Blockchain;Always+Learning." />
 
 </div>
 
@@ -18,23 +22,21 @@ Building scalable backend systems, intelligent applications, and distributed sof
 
 ## About
 
-I'm a final-year Computer Science student at **FAST NUCES Islamabad** with a passion for building software that is reliable, scalable, and designed for real-world use.
+I'm a final-year Computer Science student at **FAST NUCES Islamabad** passionate about building software that is scalable, maintainable, and engineered for real-world use.
 
-My interests include backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy taking projects from concept to production while focusing on clean code, thoughtful design, and maintainable systems.
+My interests span backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy understanding how systems work—from low-level programming and compilers to modern cloud-ready backend applications.
 
 ---
 
 # Featured Projects
 
-## 🔐 Sentinel Z *(Final Year Project • Private)*
+## 🔐 Sentinel Z *(Final Year Project — Private)*
 
-**Zero-Knowledge Proof Ethereum Smart Wallet**
-
-Privacy-preserving wallet authentication using modern cryptographic protocols.
+A privacy-focused Ethereum smart wallet using **Zero-Knowledge Proofs** for authentication without revealing user identity.
 
 **Stack**
 
-`Solidity` `Circom` `Groth16` `React` `Hardhat`
+`Solidity` • `Circom` • `Groth16` • `React` • `Hardhat`
 
 ---
 
@@ -42,40 +44,25 @@ Privacy-preserving wallet authentication using modern cryptographic protocols.
 
 ### 📚 Library Management System
 
-Enterprise-inspired backend featuring authentication, WebSockets, design patterns, Docker, Swagger, and automated testing.
+Production-style backend featuring JWT authentication, refresh tokens, WebSocket notifications, Docker, Swagger, ACID transactions, and design patterns.
 
-**Tech**
+**Java • Spring Boot • Spring Security • MySQL • Docker**
 
-`Java` `Spring Boot` `Spring Security` `MySQL` `Docker`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/LMS
+➡️ Repository: **github.com/Abdullah-07s/LMS**
 
 ---
 
 ### 🛒 E-Commerce Design Patterns
 
-Implementation of all **23 GoF Design Patterns** and **SOLID Principles** inside a Spring Boot application.
+Implementation of the complete **Gang of Four Design Patterns** and **SOLID Principles** inside a Spring Boot application.
 
-**Tech**
-
-`Java` `Spring Boot` `MySQL`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/ecommerce-patterns
+**Java • Spring Boot • MySQL**
 
 ---
 
 ### 🎓 Student REST API
 
-RESTful CRUD application demonstrating JPA relationships and REST API best practices.
-
-**Tech**
-
-`Java` `Spring Boot`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/student-api
+RESTful CRUD API demonstrating JPA relationships, layered architecture, and clean backend practices.
 
 ---
 
@@ -83,27 +70,11 @@ https://github.com/Abdullah-07s/student-api
 
 ### 🏎 TORCS Racing AI
 
-Neural network trained to drive autonomously inside the TORCS racing simulator.
-
-**Tech**
-
-`Python` `Scikit-Learn` `NumPy`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/torcs-racing-ai
-
----
+Neural network trained to autonomously drive inside the TORCS racing simulator.
 
 ### 🚢 Titanic Survival Prediction
 
-Complete machine learning workflow including EDA, feature engineering, model training, and evaluation.
-
-**Tech**
-
-`Python` `Pandas` `Scikit-Learn`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/titanic-survival
+End-to-end machine learning pipeline including data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
@@ -111,18 +82,9 @@ https://github.com/Abdullah-07s/titanic-survival
 
 ### Crime Analytics Platform
 
-Real-time analytics platform built using Lambda Architecture to process over **7 million crime records**.
+Real-time analytics platform processing over **7 million records** using Lambda Architecture.
 
-**Pipeline**
-
-Kafka → Storm → Spark
-
-**Tech**
-
-`PySpark` `Kafka` `Storm`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/Crime-Analytics
+**Apache Spark • Kafka • Storm**
 
 ---
 
@@ -130,61 +92,41 @@ https://github.com/Abdullah-07s/Crime-Analytics
 
 ### Compiler Construction
 
-A compiler implementation featuring lexical analysis, LL(1), LR(1) parsing, AST generation, and JSON-to-XML translation.
+Compiler implementation featuring lexical analysis, LL(1), LR(1), abstract syntax tree generation, and translation.
 
-**Tech**
-
-`Java` `Flex` `Bison`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/compiler-construction
-
----
-
-### Zuma (x86 Assembly)
+### 🎮 Zuma (x86 Assembly)
 
 Classic Zuma arcade game recreated entirely in x86 Assembly.
 
-**Tech**
-
-`Assembly`
-
-➡️ **Repository:**  
-https://github.com/Abdullah-07s/zuma-assembly
-
 ---
 
-# Technology Stack
+# Technologies
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### Data Engineering
+### Data & AI
 
-Apache Spark • Apache Kafka • Apache Storm • Hadoop
-
-### Machine Learning
-
-NumPy • Pandas • Scikit-Learn • PyMC
+Apache Spark • Apache Kafka • Hadoop • Pandas • NumPy • Scikit-Learn
 
 ---
 
-# GitHub Analytics
+# GitHub
 
 <div align="center">
 
@@ -203,14 +145,14 @@ NumPy • Pandas • Scikit-Learn • PyMC
 # Certifications
 
 - AWS Cloud Practitioner Essentials
-- TryHackMe — Pre Security
+- TryHackMe – Pre Security
 - C++ Programming
-- Build Your Portfolio Website (Coursera)
+- Coursera – Build Your Portfolio Website
 
 ---
 
 <div align="center">
 
-> **"Great software isn't built by accident. It's engineered."**
+*"Great software isn't built by accident. It's engineered."*
 
 </div>
