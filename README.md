@@ -94,14 +94,32 @@ https://github.com/Abdullah-07s/torcs-racing-ai
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity,mysql" />
 </p>
 
-### Backend
+- SQL
+- x86 Assembly
+
+---
+
+### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=spring,react,docker,maven,git,github" />
 </p>
+
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Spring Cloud Stream
+- Spring Web
+- JWT Authentication
+- WebSockets
+- REST APIs
+- Swagger / OpenAPI
+- Maven
+
+---
 
 ### Databases
 
@@ -109,17 +127,68 @@ https://github.com/Abdullah-07s/torcs-racing-ai
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Data Engineering
+- SQLite
+- SQL Server
 
-Apache Spark • Apache Kafka • Apache Storm • Hadoop
+---
 
-### Machine Learning
+### AI & Machine Learning
 
-NumPy • Pandas • Scikit-Learn • PyMC
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- PyMC
+- Matplotlib
+
+---
+
+### Big Data & Distributed Systems
+
+- Apache Spark
+- Apache Kafka
+- Apache Storm
+- Apache Hadoop
+- Lambda Architecture
+
+---
 
 ### Blockchain
 
-Ethereum • Hardhat • Circom • Groth16
+- Ethereum
+- Solidity
+- Hardhat
+- Circom
+- Groth16
+- Zero-Knowledge Proofs
+
+---
+
+### Software Engineering
+
+- Object-Oriented Programming
+- SOLID Principles
+- Design Patterns (GoF)
+- System Design
+- RESTful APIs
+- Microservices (Learning)
+- Docker
+- Git
+- Agile / Scrum
+
+---
+
+### Developer Tools
+
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Docker Desktop
+- GitHub
+- Linux
 
 ---
 
