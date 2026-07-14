@@ -1,292 +1,157 @@
 <div align="center">
 
-# ████████████████████████████████████████
-# ENGINEER DOSSIER
-# ████████████████████████████████████████
+# Abdullah Mallick
 
-```text
-CLEARANCE LEVEL : PUBLIC
+### Software Engineer
 
-NAME            Abdullah Mallick
-ROLE            Software Engineer
-LOCATION        Islamabad, Pakistan
+Building scalable backend systems, distributed applications, and AI-powered software.
 
-SPECIALIZATION
-├─ Backend Engineering
-├─ Artificial Intelligence
-├─ Distributed Systems
-├─ Blockchain
-└─ Software Architecture
-
-STATUS          ACTIVE
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9A227&center=true&vCenter=true&width=750&lines=Designing+Reliable+Systems.;Building+Production+Backends.;Learning+Every+Day.;Mission+Status%3A+Active."/>
+[Portfolio](https://abdullah-07s.github.io) •
+[LinkedIn](https://www.linkedin.com/in/abdullah-mallick-14322b371/) •
+[Email](mailto:abdullah.mallickk@gmail.com)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ONLINE-C9A227?style=for-the-badge&labelColor=111111)](https://abdullah-07s.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=111111)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-444444?style=for-the-badge&labelColor=111111)](mailto:abdullah.mallickk@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2500&color=C8A03D&center=true&vCenter=true&width=650&lines=Backend+Engineering;Artificial+Intelligence;Distributed+Systems;Blockchain;Always+building+something+new." />
 
 </div>
 
 ---
 
-# ▌MISSION STATEMENT
+## About
 
-I enjoy engineering software that remains clean, scalable and maintainable long after it's written.
+I'm a final-year Computer Science student at **FAST NUCES Islamabad** with an interest in building software that is scalable, maintainable, and designed for real-world use.
 
-My interests span backend engineering, distributed systems, artificial intelligence, cryptography, and software architecture. I enjoy understanding how systems work—from compilers and operating systems to cloud-native applications.
+My work spans backend engineering, distributed systems, machine learning, and blockchain, with a focus on understanding the underlying architecture rather than simply using frameworks.
 
-```text
-Current Objective
+**Current interests**
 
-[██████████░░░░░░░░] Backend Engineering
-[████████░░░░░░░░░░] Distributed Systems
-[███████░░░░░░░░░░░] Machine Learning
-[██████░░░░░░░░░░░░] Blockchain
-```
+- Backend Engineering
+- Distributed Systems
+- Artificial Intelligence
+- Zero-Knowledge Proofs
+- Software Architecture
 
 ---
 
-# ▌PROJECT ARCHIVE
+# Featured Projects
 
-## CLASSIFIED PROJECTS
+### Sentinel Z *(Final Year Project)*
 
-### 🔐 Sentinel Z
-```
-TYPE        Zero-Knowledge Smart Wallet
+A Zero-Knowledge Proof gated Ethereum smart wallet implementing privacy-preserving authentication using Circom and Groth16.
 
-STATUS      Final Year Project
+**Tech**
 
-STACK
-
-Ethereum
-Circom
-Groth16
-Hardhat
-React
-
-OBJECTIVE
-
-Authenticate users without exposing identity.
-```
+`Solidity` `Circom` `Groth16` `React` `Hardhat`
 
 ---
 
 ### 📚 Library Management System
 
-```
-STATUS      Completed
+Production-style backend inspired by enterprise applications.
 
-FEATURES
+**Highlights**
 
-✔ JWT Authentication
+- JWT Authentication
+- Refresh Tokens
+- WebSocket Notifications
+- Docker
+- Swagger
+- Strategy Pattern
+- Observer Pattern
+- Factory Pattern
+- 22 Automated Tests
 
-✔ Refresh Tokens
+**Repository**
 
-✔ WebSocket Notifications
-
-✔ ACID Transactions
-
-✔ Docker
-
-✔ Swagger
-
-✔ Design Patterns
-
-✔ 22 Automated Tests
-
-STACK
-
-Java
-Spring Boot
-Spring Security
-MySQL
-Docker
-```
-
-Repository
-
-> github.com/Abdullah-07s/LMS
+> https://github.com/Abdullah-07s/LMS
 
 ---
 
-### 📊 Crime Analytics Platform
+### Crime Analytics Platform
 
-```
-INPUT
+Real-time crime analytics platform processing over **7 million records** using Lambda Architecture.
 
-7,000,000+ Crime Records
+**Pipeline**
 
-PIPELINE
-
-Kafka
-      ↓
-Apache Storm
-      ↓
-Apache Spark
-      ↓
-Dashboard
-
-ARCHITECTURE
-
-Lambda Architecture
-```
+Spark • Kafka • Storm
 
 ---
 
-### 🏎 TORCS AI
+### TORCS Racing AI
 
-```
-MISSION
-
-Train a neural network capable of autonomous racing.
-
-STACK
-
-Python
-NumPy
-Pandas
-Scikit-Learn
-```
+Neural Network agent capable of autonomously driving inside the TORCS racing simulator.
 
 ---
 
-### OTHER MISSIONS
+### Other Projects
 
-```
-✓ Compiler Construction
-
-✓ Ecommerce Design Patterns
-
-✓ Student REST API
-
-✓ Titanic Survival Prediction
-
-✓ Zuma in Assembly
-
-✓ Desktop Library Management System
-```
+- Compiler Construction
+- E-Commerce Design Patterns
+- Student REST API
+- Titanic Survival Prediction
+- Zuma (x86 Assembly)
+- Desktop Library Management System
 
 ---
 
-# ▌TECHNICAL CAPABILITIES
+# Tech Stack
 
-## LANGUAGES
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity"/>
 </p>
 
-## BACKEND
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,docker,git,github"/>
 </p>
 
-## DATABASES
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-## DATA ENGINEERING
+### Data Engineering
 
-```text
-Apache Spark
-Apache Kafka
-Apache Storm
-Hadoop
-Pandas
-NumPy
-Scikit-Learn
-```
+Apache Spark • Apache Kafka • Apache Storm • Hadoop
+
+### Machine Learning
+
+NumPy • Pandas • Scikit-Learn • PyMC
 
 ---
 
-# ▌ENGINEERING TELEMETRY
-
-```text
-Backend Engineering      ████████████████████ 95%
-
-Java                     ████████████████████ 95%
-
-Spring Boot              ██████████████████   90%
-
-Software Architecture    █████████████████    88%
-
-Machine Learning         ███████████████      80%
-
-Blockchain               █████████████        75%
-
-Cloud                    ██████████           65%
-```
-
----
-
-# ▌SYSTEM METRICS
+# GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullah-07s&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullah-07s&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-07s&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Abdullah-07s&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-07s&layout=compact&theme=transparent&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-07s&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abdullah-07s&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# ▌CERTIFICATIONS
+# Certifications
 
-```text
-AWS Cloud Practitioner Essentials
-
-TryHackMe — Pre Security
-
-C++ Programming
-
-Build Your Portfolio Website
-```
-
----
-
-# ▌COMMUNICATION CHANNELS
-
-```yaml
-Portfolio:
-  https://abdullah-07s.github.io
-
-LinkedIn:
-  linkedin.com/in/abdullah-mallick-14322b371
-
-Email:
-  abdullah.mallickk@gmail.com
-```
+- AWS Cloud Practitioner Essentials
+- TryHackMe — Pre Security
+- C++ Programming
+- Coursera — Build Your Portfolio Website
 
 ---
 
 <div align="center">
 
-```cpp
-while (true)
-{
-    Learn();
-    Build();
-    Refactor();
-    Repeat();
-}
-```
-
-**MISSION STATUS: ACTIVE**
+*"Great software is built through thoughtful engineering, not complexity."*
 
 </div>
