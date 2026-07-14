@@ -1,156 +1,232 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██████╗ ██╗   ██╗██╗      ██╗      █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║      ██║     ██╔══██╗██║  ██║
-██████╔╝██║  ██║██║  ██║██║   ██║██║      ██║     ███████║███████║
-██╔══██╗██║  ██║██║  ██║██║   ██║██║      ██║     ██╔══██║██╔══██║
-██████╔╝██████╔╝██████╔╝╚██████╔╝███████╗ ███████╗██║  ██║██║  ██║
-╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# ████████████████████████████████████████
+# ENGINEER DOSSIER
+# ████████████████████████████████████████
 
-# SYSTEM INITIALIZED
+```text
+CLEARANCE LEVEL : PUBLIC
 
-```yaml
-name: Abdullah Mallick
+NAME            Abdullah Mallick
+ROLE            Software Engineer
+LOCATION        Islamabad, Pakistan
 
-role: Software Engineer
+SPECIALIZATION
+├─ Backend Engineering
+├─ Artificial Intelligence
+├─ Distributed Systems
+├─ Blockchain
+└─ Software Architecture
 
-location: Islamabad, Pakistan
-
-specialization:
-  - Backend Engineering
-  - Artificial Intelligence
-  - Distributed Systems
-  - Blockchain
-
-status: Building cool things...
+STATUS          ACTIVE
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Booting+Developer+Profile...;Loading+Projects...;Compiling+Coffee...;Ready." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9A227&center=true&vCenter=true&width=750&lines=Designing+Reliable+Systems.;Building+Production+Backends.;Learning+Every+Day.;Mission+Status%3A+Active."/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ONLINE-C9A227?style=for-the-badge&labelColor=111111)](https://abdullah-07s.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=111111)](https://www.linkedin.com/in/abdullah-mallick-14322b371/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-444444?style=for-the-badge&labelColor=111111)](mailto:abdullah.mallickk@gmail.com)
 
 </div>
 
 ---
 
-# > whoami
+# ▌MISSION STATEMENT
 
-I enjoy building software that survives real-world use.
+I enjoy engineering software that remains clean, scalable and maintainable long after it's written.
 
-Instead of chasing frameworks, I enjoy understanding how systems work—from compilers and operating systems to distributed architectures, backend engineering, cryptography, and machine learning.
+My interests span backend engineering, distributed systems, artificial intelligence, cryptography, and software architecture. I enjoy understanding how systems work—from compilers and operating systems to cloud-native applications.
 
-Current Mission:
+```text
+Current Objective
 
-```
-[✓] Final Year Computer Science
-[✓] Spring Boot
-[✓] AI & Machine Learning
-[✓] Zero Knowledge Proofs
-[ ] Cloud Native Systems...
-```
-
----
-
-# > ls projects/
-
-```
-
-📁 sentinel-z/
-│
-├── Ethereum Smart Wallet
-├── Zero Knowledge Authentication
-├── Circom
-└── Groth16
-
-📁 library-management-system/
-
-├── Spring Boot
-├── JWT Authentication
-├── Docker
-├── WebSocket
-├── Design Patterns
-└── 22 Automated Tests
-
-📁 crime-analytics/
-
-├── Apache Spark
-├── Kafka
-├── Storm
-└── 7 Million Records
-
-📁 torcs-ai/
-
-├── Neural Network
-└── Autonomous Racing
-
-📁 compiler/
-
-├── Lexer
-├── LL(1)
-├── LR(1)
-└── AST
-
-📁 zuma-assembly/
-
-└── x86 Assembly
-
+[██████████░░░░░░░░] Backend Engineering
+[████████░░░░░░░░░░] Distributed Systems
+[███████░░░░░░░░░░░] Machine Learning
+[██████░░░░░░░░░░░░] Blockchain
 ```
 
 ---
 
-# > cat tech_stack.md
+# ▌PROJECT ARCHIVE
 
-### Languages
+## CLASSIFIED PROJECTS
+
+### 🔐 Sentinel Z
+```
+TYPE        Zero-Knowledge Smart Wallet
+
+STATUS      Final Year Project
+
+STACK
+
+Ethereum
+Circom
+Groth16
+Hardhat
+React
+
+OBJECTIVE
+
+Authenticate users without exposing identity.
+```
+
+---
+
+### 📚 Library Management System
+
+```
+STATUS      Completed
+
+FEATURES
+
+✔ JWT Authentication
+
+✔ Refresh Tokens
+
+✔ WebSocket Notifications
+
+✔ ACID Transactions
+
+✔ Docker
+
+✔ Swagger
+
+✔ Design Patterns
+
+✔ 22 Automated Tests
+
+STACK
+
+Java
+Spring Boot
+Spring Security
+MySQL
+Docker
+```
+
+Repository
+
+> github.com/Abdullah-07s/LMS
+
+---
+
+### 📊 Crime Analytics Platform
+
+```
+INPUT
+
+7,000,000+ Crime Records
+
+PIPELINE
+
+Kafka
+      ↓
+Apache Storm
+      ↓
+Apache Spark
+      ↓
+Dashboard
+
+ARCHITECTURE
+
+Lambda Architecture
+```
+
+---
+
+### 🏎 TORCS AI
+
+```
+MISSION
+
+Train a neural network capable of autonomous racing.
+
+STACK
+
+Python
+NumPy
+Pandas
+Scikit-Learn
+```
+
+---
+
+### OTHER MISSIONS
+
+```
+✓ Compiler Construction
+
+✓ Ecommerce Design Patterns
+
+✓ Student REST API
+
+✓ Titanic Survival Prediction
+
+✓ Zuma in Assembly
+
+✓ Desktop Library Management System
+```
+
+---
+
+# ▌TECHNICAL CAPABILITIES
+
+## LANGUAGES
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,solidity"/>
 </p>
 
-### Frameworks
+## BACKEND
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,docker"/>
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github"/>
 </p>
 
-### Databases
+## DATABASES
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### Currently Learning
+## DATA ENGINEERING
 
-```
-Cloud Computing
-Distributed Systems
-Kubernetes
-Microservices
-Advanced System Design
-```
-
----
-
-# > system-status
-
-```
-Backend Engineering    ████████████████████ 95%
-
-Java                   ████████████████████ 95%
-
-Spring Boot            ███████████████████  90%
-
-Software Architecture  █████████████████   85%
-
-Machine Learning       ███████████████     80%
-
-Blockchain             █████████████       75%
-
-Cloud                  ██████████          65%
+```text
+Apache Spark
+Apache Kafka
+Apache Storm
+Hadoop
+Pandas
+NumPy
+Scikit-Learn
 ```
 
 ---
 
-# > github stats
+# ▌ENGINEERING TELEMETRY
+
+```text
+Backend Engineering      ████████████████████ 95%
+
+Java                     ████████████████████ 95%
+
+Spring Boot              ██████████████████   90%
+
+Software Architecture    █████████████████    88%
+
+Machine Learning         ███████████████      80%
+
+Blockchain               █████████████        75%
+
+Cloud                    ██████████           65%
+```
+
+---
+
+# ▌SYSTEM METRICS
 
 <div align="center">
 
@@ -162,30 +238,55 @@ Cloud                  ██████████          65%
 
 <img src="https://streak-stats.demolab.com?user=Abdullah-07s&theme=github-dark-blue&hide_border=true"/>
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-07s&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
 
-# > connect
+# ▌CERTIFICATIONS
 
-```bash
-Portfolio  : https://abdullah-07s.github.io
+```text
+AWS Cloud Practitioner Essentials
 
-LinkedIn  : linkedin.com/in/abdullah-mallick-14322b371
+TryHackMe — Pre Security
 
-Email     : abdullah.mallickk@gmail.com
+C++ Programming
+
+Build Your Portfolio Website
+```
+
+---
+
+# ▌COMMUNICATION CHANNELS
+
+```yaml
+Portfolio:
+  https://abdullah-07s.github.io
+
+LinkedIn:
+  linkedin.com/in/abdullah-mallick-14322b371
+
+Email:
+  abdullah.mallickk@gmail.com
 ```
 
 ---
 
 <div align="center">
 
-```
-while(alive){
-    learn();
-    build();
-    improve();
+```cpp
+while (true)
+{
+    Learn();
+    Build();
+    Refactor();
+    Repeat();
 }
 ```
+
+**MISSION STATUS: ACTIVE**
 
 </div>
