@@ -2,9 +2,9 @@
 
 # Abdullah Mallick
 
-### Software Engineer
+### Backend Engineer • AI Engineer • Software Developer
 
-Building reliable backend systems, distributed applications, and intelligent software.
+Building scalable systems, intelligent applications, and software that lasts.
 
 <br>
 
