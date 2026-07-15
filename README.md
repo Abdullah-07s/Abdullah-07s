@@ -8,7 +8,7 @@
 
 > 💭 **Today's Repository Thought**
 >
-> *Loading today's thought...*
+> *Every repository is a new excuse to learn something different.*
 
 <!--QUOTE_END-->
 
