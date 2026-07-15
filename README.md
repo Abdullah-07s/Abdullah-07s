@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=C8A03D&center=true&vCenter=true&width=700&lines=Designing+Reliable+Systems;Building+Scalable+Applications;Engineering+Intelligent+Solutions;Creating+Production-Ready+Software"/>
 
 <p align="center">
-    <img src="assets/repository-thought.svg" width="850">
+    <img src="assets/repository-thought.svg" width="850" alt="Repository Thought">
 </p>
 
 <br>
