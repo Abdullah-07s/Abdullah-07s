@@ -51,6 +51,26 @@ Full-stack, multi-module Spring Boot microservices platform simulating a digital
 
 ---
 
+## 🤖 Cognify — RAG Document Q&A Chatbot
+
+Retrieval-Augmented Generation chatbot that answers questions grounded in uploaded documents, combining document chunking, vector search, and LLM inference through a full-stack pipeline.
+
+**Stack**
+
+`Python` • `FastAPI` • `LangChain` • `ChromaDB` • `Groq` • `Llama 3` • `React`
+
+**Highlights**
+
+- Document ingestion pipeline: chunking, embedding, and vector indexing in ChromaDB
+- LangChain-orchestrated retrieval grounding LLM responses in source documents
+- Groq-hosted Llama 3 inference for fast response generation
+- FastAPI backend serving a React chat interface
+- Reduces hallucination by constraining answers to retrieved context
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/Cognify)
+
+---
+
 ## 💼 ApplyFlow — Job Application Tracker
 
 Full-stack job application tracker that combines live job discovery with application management, PDF/Excel exports, and secure JWT authentication.
@@ -167,9 +187,13 @@ Neural network trained to autonomously drive inside the TORCS racing simulator.
 
 ## Other Projects
 
+- 🎫 **Ticket Booking Concurrency Simulator** — Race conditions (overselling, lost updates) solved three ways: synchronized blocks, pessimistic locking, and optimistic locking via JPA `@Version`
+- 🌦️ **Weather Aggregator** — Live Open-Meteo data with three HTTP client approaches compared and WebSocket push updates
+- 📡 **Signal** — Kafka event-streaming service built with Spring Cloud Stream's functional binding model
+- 📦 **Inventra** — Inventory & warehouse management with a manually implemented JWT layer and fine-grained per-admin RBAC
 - 🛒 **E-Commerce Design Patterns** — Complete implementation of all **23 GoF Design Patterns** and **SOLID Principles**
 - 🔤 **Compiler Construction** — Lexer, LL(1), LR(1), AST generation, and translation
-- 🎓 **Student REST API** — Spring Boot CRUD API with JPA
+- 🎓 **Student REST API (campus-api)** — Spring Boot CRUD API with JPA
 - 🚢 **Titanic Survival Prediction** — End-to-end machine learning pipeline
 - 🎮 **Zuma (x86 Assembly)** — Classic arcade game recreated entirely in Assembly
 - 📚 **Desktop Library Management System** — Java Swing application with SQLite and SQL Server
@@ -207,6 +231,7 @@ Neural network trained to autonomously drive inside the TORCS racing simulator.
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -232,6 +257,10 @@ Neural network trained to autonomously drive inside the TORCS racing simulator.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/PyMC-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 </p>
 
 ---
