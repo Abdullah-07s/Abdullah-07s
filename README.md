@@ -2,9 +2,7 @@
 
 # Hi, I'm Abdullah 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=C8A03D&center=true&vCenter=true&width=700&lines=Designing+Reliable+Systems;Building+Scalable+Applications;Engineering+Intelligent+Solutions;Creating+Production-Ready+Software"/>
-
-<p align="center">
+<p align="left">
     <img src="assets/repository-thought.svg" width="850" alt="Repository Thought">
 </p>
 
@@ -54,9 +52,9 @@ More in my [repositories](https://github.com/Abdullah-07s?tab=repositories): a r
 - Finishing my final-year project, **Sentinel Z**: a zero-knowledge-proof-gated Ethereum smart wallet (Solidity, Circom, Groth16). It's private for now.
 - Studying MLOps this semester, so more of my projects can ship with tracking, deployment, and monitoring instead of just a notebook.
 
-# Technologies
+## Technologies that I have worked with
 
-## Languages
+### Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,solidity" />
@@ -180,19 +178,3 @@ More in my [repositories](https://github.com/Abdullah-07s?tab=repositories): a r
 </p>
 
 ---
-
-# GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-07s&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=C8A03D&center=true&vCenter=true&width=650&lines=Write+code+that+works.;Engineer+systems+that+last."/>
-
-</div>
