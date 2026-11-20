@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdullah Mallick
+# Hi, I'm Abdullah 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=C8A03D&center=true&vCenter=true&width=700&lines=Designing+Reliable+Systems;Building+Scalable+Applications;Engineering+Intelligent+Solutions;Creating+Production-Ready+Software"/>
 
@@ -20,185 +20,47 @@
 
 # About
 
-Final-year Computer Science student at **FAST NUCES Islamabad** passionate about building scalable backend systems and solving complex engineering problems.
-
-My interests span backend engineering, distributed systems, artificial intelligence, blockchain, and software architecture. I enjoy designing software that is clean, maintainable, and built for real-world use.
-
+I'm a backend developer who likes building systems that talk to each other: APIs, event streams, and the occasional AI feature that has to cite its sources. Final-year CS student at FAST-NUCES Islamabad, based in Pakistan (UTC+5), and **open to remote jobs and freelance work from January 2027.**
+ 
+I did a Java internship at Aksa SDS, where I built and presented Spring Boot projects under senior-engineer review. Everything below is code you can open and run.
+---
+## What I can build for you
+ 
+- **Backend APIs and services:** Java 21, Spring Boot, JWT auth, MySQL/Postgres, Docker
+- **Event-driven systems:** Kafka, RabbitMQ, microservices behind a gateway
+- **RAG chatbots over your own documents:** FastAPI, LangChain, ChromaDB, Groq/Llama, answers with source citations
+- **Data pipelines and dashboards:** PySpark, Kafka, Streamlit
+**Core stack:** Java · Spring Boot · Kafka · MySQL/Postgres · Docker
+**Also:** Python · FastAPI · React · PySpark · Jenkins
 ---
 
-# Featured Projects
-
-## 🏦 Helix — Digital Banking Platform
-
-Full-stack, multi-module Spring Boot microservices platform simulating a digital banking system with event-driven architecture, secure money transfers, fraud detection, and a themeable frontend.
-
-**Stack**
-
-`Java 21` • `Spring Boot` • `Spring Cloud Gateway` • `OpenFeign` • `Kafka` • `RabbitMQ` • `MySQL` • `Docker` • `Jenkins` • `JWT` • `JavaScript`
-
-**Highlights**
-
-- Five independent Spring Boot microservices with separate database schemas
-- JWT authentication shared across services
-- Concurrency-safe money transfers and deposits
-- Kafka-driven transaction events
-- RabbitMQ-based fraud alerts
-- Card issuance and lifecycle management
-- Docker Compose infrastructure
-- CI pipeline with Jenkins
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/Helix-Banking)
-
+## Projects I'm proudest of
+ 
+### 🏦 [Helix](https://github.com/Abdullah-07s/Helix-Banking): a digital banking backend
+A banking system split into four Spring Boot services (accounts, transactions, cards, fraud) behind a Spring Cloud Gateway, each with its own MySQL schema. Transfers are concurrency-safe, transaction events flow through Kafka, and the fraud service raises alerts over RabbitMQ. JWTs are forwarded between services so ownership checks still apply downstream. Built as a learning project to see how this kind of system actually fits together, with a Jenkins pipeline and Docker Compose for the infrastructure.
+`Java 21` `Spring Boot` `Kafka` `RabbitMQ` `MySQL` `Jenkins`
+ 
+### 🤖 [Cognify](https://github.com/Abdullah-07s/Cognify): chat with your documents
+Upload PDFs, DOCX, or TXT files and ask questions. Answers stream in live, show the source chunks they came from, and the assistant says "I don't know" when your documents don't contain the answer instead of guessing. Embeddings run locally (sentence-transformers), so only the final generation step calls an API. The demo login is mocked, and I say so in the README.
+`FastAPI` `LangChain` `ChromaDB` `Groq (Llama)` `React` `Docker`
+ 
+### 💰 [Nexo](https://github.com/Abdullah-07s/Nexo-Expense-Tracker): expense tracker, deployed
+A full-stack expense tracker with JWT auth, monthly category budgets, over-budget alerts, charts, and Swagger docs. Backend and database run on Railway, frontend on Vercel.
+<!-- TODO: add your live Nexo URL here, e.g. **[Try it live →](https://your-nexo-url)** -->
+`Spring Boot` `PostgreSQL` `React` `Tailwind`
+ 
+### 📊 [Crime Analytics](https://github.com/Abdullah-07s/Crime-Analytics): Lambda architecture on 7M+ rows
+A batch-plus-streaming pipeline over the Chicago crime dataset (about 5.7 GB). PySpark handles trend analysis and K-Means hotspot detection, while Kafka and Storm run sliding-window anomaly alerts. The "live" stream is a replay of the CSV at a configurable rate, not a real feed. Results land in Postgres and MongoDB and are served through a Streamlit dashboard.
+`PySpark` `Kafka` `Storm` `PostgreSQL` `MongoDB` `Docker`
+ 
+More in my [repositories](https://github.com/Abdullah-07s?tab=repositories): a reactive crypto tracker with WebFlux and R2DBC, a Kafka/Spring Cloud Stream service, a ticket-booking simulator that fixes race conditions three different ways, and all 23 GoF design patterns implemented in Spring Boot.
+ 
 ---
-
-## 🤖 Cognify — RAG Document Q&A Chatbot
-
-Retrieval-Augmented Generation chatbot that answers questions grounded in uploaded documents, combining document chunking, vector search, and LLM inference through a full-stack pipeline.
-
-**Stack**
-
-`Python` • `FastAPI` • `LangChain` • `ChromaDB` • `Groq` • `Llama 3` • `React`
-
-**Highlights**
-
-- Document ingestion pipeline: chunking, embedding, and vector indexing in ChromaDB
-- LangChain-orchestrated retrieval grounding LLM responses in source documents
-- Groq-hosted Llama 3 inference for fast response generation
-- FastAPI backend serving a React chat interface
-- Reduces hallucination by constraining answers to retrieved context
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/Cognify)
-
----
-
-## 💼 ApplyFlow — Job Application Tracker
-
-Full-stack job application tracker that combines live job discovery with application management, PDF/Excel exports, and secure JWT authentication.
-
-**Stack**
-
-`Java 21` • `Spring Boot` • `Spring Security` • `MySQL` • `JWT` • `Thymeleaf` • `JavaScript` • `RemoteOK` • `OpenPDF` • `Apache POI`
-
-**Highlights**
-
-- Live job listings from the RemoteOK API
-- One-click import of live listings into applications
-- JWT authentication with BCrypt
-- Complete application CRUD
-- PDF and Excel history exports
-- Browser-based offline draft auto-save
-- Server-rendered dashboard with dark theme
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/AppyFlow)
-
----
-
-## 💰 Nexo — Personal Expense Tracker
-
-Full-stack expense tracking application with JWT authentication, budgeting, analytics, filtering, reports, and cloud deployment.
-
-**Stack**
-
-`Java 21` • `Spring Boot` • `Spring Security` • `PostgreSQL` • `React` • `Vite` • `Tailwind CSS` • `Chart.js` • `Railway` • `Vercel`
-
-**Highlights**
-
-- JWT authentication and BCrypt password hashing
-- Preset and custom expense categories
-- Full expense CRUD with date/category filtering
-- Monthly category budgets and over-budget alerts
-- Spending dashboard with charts
-- Reports and built-in calculator
-- Swagger API documentation
-- Railway backend/database deployment and Vercel frontend deployment
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/Nexo-Expense-Tracker)
-
----
-
-## 🪙 CryptoTracker — Live Crypto Price Tracker
-
-Reactive Spring Boot application demonstrating non-blocking architecture with live cryptocurrency data, Server-Sent Events, reactive persistence, and role-based authentication.
-
-**Stack**
-
-`Java 21` • `Spring Boot` • `WebFlux` • `WebClient` • `R2DBC` • `JPA` • `MySQL` • `Kafka` • `JWT` • `CoinGecko API`
-
-**Highlights**
-
-- Real-time cryptocurrency prices from CoinGecko
-- Non-blocking WebFlux and WebClient pipeline
-- R2DBC reactive database writes
-- Server-Sent Events for live browser updates
-- Role-based JWT authentication
-- Personal watchlists
-- JPA batch archival for historical OHLC-style summaries
-- R2DBC and JPA used together for different workload patterns
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/CryptoTracker)
-
----
-
-## 🔐 Sentinel Z *(Final Year Project · Private)*
-
-Zero-Knowledge Proof gated Ethereum smart wallet implementing privacy-preserving authentication.
-
-**Stack**
-
-`Solidity` • `Circom` • `Groth16` • `React` • `Hardhat`
-
----
-
-## 📚 Library Management System
-
-Production-grade backend featuring JWT authentication, refresh tokens, WebSocket notifications, Docker, Swagger, ACID transactions, and enterprise software design patterns.
-
-**Stack**
-
-`Java` • `Spring Boot` • `Spring Security` • `MySQL` • `Docker`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/LMS)
-
----
-
-## 📊 Crime Analytics Platform
-
-Real-time analytics platform processing over **7 million records** using Lambda Architecture.
-
-**Stack**
-
-`Apache Spark` • `Kafka` • `Storm`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/Crime-Analytics)
-
----
-
-## 🏎️ TORCS Racing AI
-
-Neural network trained to autonomously drive inside the TORCS racing simulator.
-
-**Stack**
-
-`Python` • `NumPy` • `Pandas` • `Scikit-Learn`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-07s/torcs-racing-ai)
-
----
-
-## Other Projects
-
-- 🎫 **Ticket Booking Concurrency Simulator** — Race conditions (overselling, lost updates) solved three ways: synchronized blocks, pessimistic locking, and optimistic locking via JPA `@Version`
-- 🌦️ **Weather Aggregator** — Live Open-Meteo data with three HTTP client approaches compared and WebSocket push updates
-- 📡 **Signal** — Kafka event-streaming service built with Spring Cloud Stream's functional binding model
-- 📦 **Inventra** — Inventory & warehouse management with a manually implemented JWT layer and fine-grained per-admin RBAC
-- 🛒 **E-Commerce Design Patterns** — Complete implementation of all **23 GoF Design Patterns** and **SOLID Principles**
-- 🔤 **Compiler Construction** — Lexer, LL(1), LR(1), AST generation, and translation
-- 🎓 **Student REST API (campus-api)** — Spring Boot CRUD API with JPA
-- 🚢 **Titanic Survival Prediction** — End-to-end machine learning pipeline
-- 🎮 **Zuma (x86 Assembly)** — Classic arcade game recreated entirely in Assembly
-- 📚 **Desktop Library Management System** — Java Swing application with SQLite and SQL Server
-
----
+ 
+## What I'm working on now
+ 
+- Finishing my final-year project, **Sentinel Z**: a zero-knowledge-proof-gated Ethereum smart wallet (Solidity, Circom, Groth16). It's private for now.
+- Studying MLOps this semester, so more of my projects can ship with tracking, deployment, and monitoring instead of just a notebook.
 
 # Technologies
 
