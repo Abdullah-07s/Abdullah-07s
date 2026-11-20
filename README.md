@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Abdullah 👋
 
@@ -20,18 +20,9 @@
 
 # About
 
-I'm a backend developer who likes building systems that talk to each other: APIs, event streams, and the occasional AI feature that has to cite its sources. Final-year CS student at FAST-NUCES Islamabad, based in Pakistan (UTC+5), and **open to remote jobs and freelance work from January 2027.**
- 
+I'm a backend developer who likes building systems that talk to each other: APIs, event streams, and the occasional AI feature that has to cite its sources. Final-year CS student at FAST-NUCES Islamabad, based in Pakistan (UTC+5), and 
 I did a Java internship at Aksa SDS, where I built and presented Spring Boot projects under senior-engineer review. Everything below is code you can open and run.
----
-## What I can build for you
- 
-- **Backend APIs and services:** Java 21, Spring Boot, JWT auth, MySQL/Postgres, Docker
-- **Event-driven systems:** Kafka, RabbitMQ, microservices behind a gateway
-- **RAG chatbots over your own documents:** FastAPI, LangChain, ChromaDB, Groq/Llama, answers with source citations
-- **Data pipelines and dashboards:** PySpark, Kafka, Streamlit
-**Core stack:** Java · Spring Boot · Kafka · MySQL/Postgres · Docker
-**Also:** Python · FastAPI · React · PySpark · Jenkins
+
 ---
 
 ## Projects I'm proudest of
